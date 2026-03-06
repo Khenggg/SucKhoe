@@ -1,0 +1,118 @@
+KỊCH BẢN CHI TIẾT: "CUỘC GỌI TỪ ĐỊA NGỤC LÚC 1 GIỜ SÁNG"
+Thời lượng dự kiến: 65 - 75 giây.
+Nhân vật chính: Nghệ Đại Ca (AI Animation - Giọng gắt, quyền lực nhưng tâm lý).
+
+PHẦN 1: CÚ SHOCK ĐẦU TIÊN (0s - 10s)
+Visual: Màn hình tối đen, chỉ có ánh sáng xanh leo lét từ điện thoại hắt lên mặt một người đang lờ đờ. Tiếng chuông iPhone reo dồn dập, rung bần bật.
+
+Màn hình hiện: 🚨 CẢNH BÁO KHẨN CẤP: DẠ DÀY ĐANG BIỂU TÌNH 🚨.
+
+Âm thanh: Tiếng nhịp tim đập nhanh thình thịch, thình thịch.
+
+Lời thoại (Voice AI): "Alo? Chủ nhân đấy à? Đừng giả vờ ngủ! Tôi biết bạn vẫn đang lướt TikTok đến mờ cả mắt kìa!"
+
+PHẦN 2: HIỆN TRƯỜNG "TỘI ÁC" (10s - 25s)
+Visual: Camera zoom xuyên qua cổ họng, đi thẳng vào dạ dày. Cảnh tượng bên trong như một bãi chiến trường: Những sợi mì tôm như dây xích trói chặt, những giọt trà sữa đen ngòm như dầu loang, và những vết loét đang đỏ rực lên.
+
+Nghệ Đại Ca xuất hiện: Đang cầm một chiếc loa phóng thanh, đứng trên một "tảng đá" là một viên thuốc giảm đau vô tác dụng.
+
+Lời thoại: "Nhìn xem! Đây là cái nhà kho hay bãi rác? Thức đêm cho cố vào, rồi tống toàn 'chất độc' này xuống. Bạn định để tôi 'về hưu' sớm ở tuổi 25 à? Nhìn cái làn da ngoài kia kìa, nó đang xạm đi như bánh đa nướng rồi đấy!"
+
+PHẦN 3: SỰ XUẤT HIỆN CỦA "SIÊU ANH HÙNG" (25s - 45s)
+Visual: Một luồng sáng vàng rực rỡ từ trên cao chiếu xuống. Hũ Sữa Nghệ Gạo Lứt Thuần Chay hạ cánh như một con tàu vũ trụ. Nghệ Đại Ca vứt loa, nhảy lên hũ sữa, rút một thanh kiếm ánh sáng bằng Nghệ ra.
+
+Hành động AI: Nghệ Đại Ca chém nhát kiếm, dòng sữa vàng óng ả đổ xuống như thác Niagara. Dòng sữa đi đến đâu, những sợi mì tôm tan biến, vết loét dịu lại và chuyển sang màu hồng khỏe mạnh.
+
+Lời thoại: "Dẹp hết mấy thứ độc hại đó đi! Đã thức khuya thì phải 'nạp VIP'. Một ly Nghệ Gạo Lứt – Gạo lứt bổ máu, Nghệ chữa lành vết thương, Đậu gà xây cơ cho dáng thon. Một mình tôi chấp hết mọi 'kẻ thù' xâm lược cơ thể bạn đêm nay!"
+
+PHẦN 4: HIỆU ỨNG TỨC THÌ (45s - 60s)
+Visual: Chuyển cảnh ra ngoài. Người dùng sau khi uống sữa xong, một làn sóng năng lượng vàng chạy khắp cơ thể. Da bắt đầu căng mọng (glowy), quầng thâm mắt tan biến như photoshop. Vòng eo đang lèo nhèo mỡ bỗng săn chắc lại.
+
+Lời thoại: "Thấy chưa? Thức đêm nhưng thần thái vẫn phải là 'nữ hoàng'. Da không sạm, bụng không phệ, dạ dày êm ru như nằm nệm Kim Đan. Đây mới là cách 'Cú đêm' thông thái tận hưởng cuộc sống!"
+
+PHẦN 5: CHỐT ĐƠN (60s - End)
+Visual: Nghệ Đại Ca đứng cạnh hũ sữa, khoanh tay, đeo kính râm cực ngầu. Phía sau là các thành phần hạt sen, bí đỏ đang nhảy múa minh họa.
+
+Lời thoại: "Đừng để dạ dày phải gọi điện cầu cứu thêm lần nào nữa. Bấm ngay vào giỏ hàng bên dưới, rước tôi về 'bảo kê' cho thanh xuân của bạn ngay đi. Chậm tay là... già ráng chịu nhé!"
+
+Text trên màn hình: [BẤM NGAY: CỨU LẤY DẠ DÀY & NHAN SẮC]
+
+
+
+
+
+
+### PHẦN 1: CÚ SHOCK ĐẦU TIÊN (0s - 10s)
+
+*Mục tiêu: Tạo không khí căng thẳng, u tối.*
+
+* **Prompt Hình ảnh (Banana AI):**
+> **Prompt:** Close-up shot of a young person in a pitch-dark room, face illuminated only by the harsh blue light of a smartphone. The person looks exhausted with deep dark circles under eyes. 3D stylized animation, high detail, cinematic lighting, 8k.
+
+
+* **Prompt Video (Veo):**
+> **Prompt:** The smartphone screen in the person's hand suddenly flashes bright red. A digital pop-up notification appears and vibrates violently with the text "🚨 CẢNH BÁO: DẠ DÀY BIỂU TÌNH 🚨". The camera zooms in fast on the person's widening, terrified eyes.
+
+
+
+---
+
+### PHẦN 2: HIỆN TRƯỜNG "TỘI ÁC" (10s - 25s)
+
+*Mục tiêu: Thể hiện sự tàn phá bên trong cơ thể một cách trực quan.*
+
+* **Prompt Hình ảnh (Banana AI):**
+> **Prompt:** Interior of a human stomach designed as a dark, messy battlefield. Giant tangled instant noodles looking like rusty iron chains. Puddles of dark, oily liquid tea. Glowing neon red patches on the walls representing stomach ulcers. 3D animation style, surreal environment.
+
+
+* **Prompt Hình ảnh Nhân vật (Banana AI):**
+> **Prompt:** A personified Turmeric character (Nghệ Đại Ca) standing on a gray rock. He is tough-looking, wearing a headband and holding a large megaphone. He looks angry and authoritative. Vibrant orange skin, detailed texture.
+
+
+* **Prompt Video (Veo):**
+> **Prompt:** Dynamic FPV camera diving through a dark throat into the messy stomach battlefield. The Turmeric character is shouting into his megaphone, gesturing angrily at the tangled noodles and red ulcers. Dust and particles floating in the air, dramatic cinematic shadows.
+
+
+
+---
+
+### PHẦN 3: SIÊU ANH HÙNG XUẤT HIỆN (25s - 45s)
+
+*Mục tiêu: Đỉnh điểm của kỹ xảo, sự "giải cứu" huy hoàng.*
+
+* **Prompt Hình ảnh (Banana AI):**
+> **Prompt:** A majestic, glowing golden tin of "Sữa Nghệ Gạo Lứt Thuần Chay" descending from a beam of light like a spaceship. Golden sparkles and rays of light illuminating the dark stomach. Cinematic composition, heroic atmosphere.
+
+
+* **Prompt Video (Veo):**
+> **Prompt:** The golden tin lands with a heavy thud, creating a golden shockwave that pushes back the darkness. The Turmeric character jumps onto the tin, draws a glowing lightsaber made of golden light. He swings it, and a massive, smooth waterfall of thick golden milk pours down, dissolving the noodle chains and healing the red ulcers into healthy pink tissue instantly.
+
+
+
+---
+
+### PHẦN 4: HIỆU ỨNG TỨC THÌ (45s - 60s)
+
+*Mục tiêu: Cho thấy sự lột xác của người dùng.*
+
+* **Prompt Hình ảnh (Banana AI):**
+> **Prompt:** A split-screen comparison in 3D animation style. Left side: The tired, pale person from Part 1. Right side: The same person with glowing, radiant skin, bright eyes, and a fit, toned athletic body. High contrast, vibrant colors.
+
+
+* **Prompt Video (Veo):**
+> **Prompt:** A wave of golden energy travels from the person's stomach up to their face. Their skin visibly transforms, becoming smooth and bright. Dark eye circles vanish instantly. The person looks into a mirror, touches their glowing cheek, and smiles confidently. Light rays emanating from the body.
+
+
+
+---
+
+### PHẦN 5: CHỐT ĐƠN (60s - End)
+
+*Mục tiêu: Tạo thiện cảm và thôi thúc hành động.*
+
+* **Prompt Hình ảnh (Banana AI):**
+> **Prompt:** The Turmeric character (Nghệ Đại Ca) standing heroically next to the product tin, wearing cool black sunglasses and a confident smirk. In the background, cute personified characters of a Lotus Seed, a Pumpkin, and a Chickpea are cheering. Sunny, bright natural background.
+
+
+* **Prompt Video (Veo):**
+> **Prompt:** The Turmeric character winks and points a finger towards the viewer. The background characters perform a fun, synchronized dance. A large "BUY NOW" button with a glowing effect appears. The camera pulls back to show the whole group in a celebratory pose.
